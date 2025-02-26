@@ -1,0 +1,3 @@
+/airflow/.env
+/metabase/.env
+/dbt/.env
